@@ -4,7 +4,8 @@
 This project implements sentiment analysis on movie reviews from the IMDB dataset using two different deep learning architectures: Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU). The goal is to classify reviews as either positive or negative.
 
 ## Dataset
-The dataset used in this project is the **IMDB Dataset**, which contains movie reviews labeled as positive or negative. The dataset is available as a CSV file named `IMDB Dataset.csv`.
+The dataset used in this project is the **IMDB Dataset** from kaggle in this link :https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/input?select=IMDB+Dataset.csv
+which contains movie reviews labeled as positive or negative. The dataset is available as a CSV file named `IMDB Dataset.csv`.
 
 ### Dataset Description
 - **Columns**:
